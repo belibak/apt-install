@@ -1,2 +1,8 @@
 #!/bin/bash
-apt install -y net-tools tmux netcat vim sudo htop 
+apt install -y\
+net-tools\
+tmux netcat\
+vim\
+sudo\
+htop\
+lm-sensors
