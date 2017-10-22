@@ -1,6 +1,7 @@
 #!/bin/bash
 apt update
 apt install -y \
+cifs-utils \
 net-tools \
 tmux \
 netcat \
